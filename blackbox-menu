@@ -1,0 +1,15 @@
+# Automatically generated file. Do not edit (see /usr/share/doc/menu/README)
+
+[begin] (Debian)
+   [submenu] (Applicazioni) 
+          [exec] (terminale)  {xterm}
+          [exec] (Xapps)  {xfce4-appfinder} 
+          [exec] (Browser)  {firefox}
+	  [exec] (FileManager)  {thunar}
+         [end]
+      [submenu] (Blackbox)
+      [reconfig] (Reconfigure) 
+      [restart] (Restart) 
+      [exit] (Exit) 
+   [end]
+[end]
